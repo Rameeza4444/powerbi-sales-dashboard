@@ -1,6 +1,6 @@
 # 📈 Power BI Sales Dashboard Project
 
-This is a sales analytics dashboard built using Power BI, based on the tutorial by [Chandoo](https://chandoo.org/) on YouTube.
+This is a sales analytics dashboard built using Power BI.
 
 The goal of the project was to practice dashboard building, DAX measures, and data modeling with Excel as a data source.
 
